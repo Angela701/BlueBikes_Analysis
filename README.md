@@ -1,6 +1,8 @@
 # BlueBikes_Analysis
 
-/* PROBLEM STATEMENT 
+/* 
+
+PROBLEM STATEMENT 
 
 Soon there will be an expansion of the Boston bikeshare system (BlueBikes) and the Mayor of Boston would like to understand how bikes move around within the system (from station to station) based on the type of rider (and other factors) and it is up to us to figure out where to expand.  
 
@@ -22,8 +24,7 @@ RECOMMENDATIONS:
 	◉ Consider expanding the availability of bikes/docks during the summer time and decrease the amount of bikes during the winter season to prevent depreciation of bikes
 	◉ Consider expanding in highly populated locations such as MIT Stata, MIT Mass Ave and South Station or surrounding areas
                                                         
-
-
+*/
 																			
 																			
 																			
